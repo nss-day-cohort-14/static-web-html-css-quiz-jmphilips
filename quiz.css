@@ -1,0 +1,67 @@
+body {
+	font-family: sans-serif;
+}
+
+.divorved {
+	width: 100%;
+	margin-bottom: 2em;
+}
+
+.cardBase {
+	margin: 0 auto;
+	display: inline-block;
+	border: 1px dotted lightblue;
+	box-sizing: border-box; 
+	width: 30%;
+
+}
+
+.headings {
+	text-align: center; 
+	border: 1px dotted lightgray;
+}
+
+.products {
+	width: 100%;
+	text-align: center;
+}
+
+.pix {
+	padding: 1em;
+	max-height: 10em;
+	max-width: 90%;
+}
+
+.availability {
+	background-color: gray;
+	text-align: left; 
+}
+
+.availability p {
+	padding: 0 .5em;
+	color: yellow;
+}
+
+.justified {
+	text-align: justify;
+	padding: 0 .5em;
+}
+
+.specifications li, .pricing li {
+	font-weight: bold;
+}
+
+h3 {
+	margin:0;
+	padding: 0 .5em;
+	font-weight: normal;
+}
+ul {
+	margin: 0;
+	list-style: none;
+}
+
+.footings h6{
+	margin: 0;
+	padding: 0;
+}
